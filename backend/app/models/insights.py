@@ -1,0 +1,1 @@
+# Insight-related data models.
